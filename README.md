@@ -115,6 +115,3 @@ Let’s connect:
 
 This project is proprietary. If you're interested in a custom deployment or licensing Agentic AI, get in touch.
 
----
-
-Let me know if you’d like a badge section, Docker deployment guide, or to format this into GitHub Pages too!
